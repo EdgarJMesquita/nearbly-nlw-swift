@@ -8,22 +8,22 @@ Esse é um projeto do evento NLW Pocket Mobile, um dos conteúdos disponíveis p
 <div style="display: flex;gap: 10px">
 <div>
 <h2>Splash</h2>
-<img src="./docs/Splash.png" width="100%"/>
+<img src="./docs/Splash.png" width="50%"/>
 </div>
 <div>
 <h2>Boarding</h2>
-<img src="./docs/Welcome.png" width="100%"/>
+<img src="./docs/Welcome.png" width="50%"/>
 </div>
 </div>
 
-<div style="display: flex;gap: 10px">
+<div style="display: flex;gap: 10px" >
 <div>
 <h2>Início</h2>
-<img src="./docs/Home Expanded.png" width="100%"/>
+<img src="./docs/Home Expanded.png" width="50%"/>
 </div>
 <div>
 <h2>Início expandida</h2>
-<img src="./docs/Home.png" width="100%"/>
+<img src="./docs/Home.png" width="50%"/>
 </div>
 </div>
 
